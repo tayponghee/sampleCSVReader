@@ -4,4 +4,4 @@ Written in Python
 
 Dependencies:
 
-Python, Jupyter notebook
+Python, Jupyter notebook, Seaborn, Numpy, Pandas
